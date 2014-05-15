@@ -1,0 +1,2 @@
+wc -l file ==> counts number of lines in file
+wc -w file ==> counts number of words in file
