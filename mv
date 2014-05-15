@@ -1,0 +1,2 @@
+mv file dir ==> moves file to dir
+mv file1 file2 ==> rename file1 to file2
